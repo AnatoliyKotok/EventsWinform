@@ -1,0 +1,10 @@
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\bin\Debug\WinformEvents.exe.config
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\bin\Debug\WinformEvents.exe
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\bin\Debug\WinformEvents.pdb
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.Form1.resources
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.Properties.Resources.resources
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.csproj.GenerateResource.cache
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.exe
+C:\Users\Anatoliy\source\repos\WinformEvents\WinformEvents\obj\Debug\WinformEvents.pdb
